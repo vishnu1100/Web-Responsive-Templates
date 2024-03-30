@@ -1,6 +1,6 @@
-# Web Responsive Templates
+# Web Responsive Free Templates
 
-This repository contains a collection of free, responsive website templates designed to provide a solid foundation for building modern and adaptable websites. Each template is meticulously crafted with HTML5, CSS3, and may include some JavaScript components for enhanced functionality. These templates are ideal for developers, designers, and anyone looking to create responsive websites efficiently.
+This repository contains a collection of free, responsive website templates designed to provide a solid foundation for building modern and adaptable websites. Each template is meticulously crafted  and may include some JavaScript components for enhanced functionality. These templates are ideal for developers, designers, and anyone looking to create responsive websites efficiently.
 
 ## Features:
 
@@ -11,16 +11,10 @@ This repository contains a collection of free, responsive website templates desi
 - **Lightweight and Fast:** Our templates are optimized for performance, ensuring fast loading times and smooth user interactions.
 - **Free to Use:** These templates are released under an open-source license, allowing you to use them for personal or commercial projects without any restrictions.
 
-## Contents:
-
-- **Template 1:** Description of Template 1.
-- **Template 2:** Description of Template 2.
-- **Template 3:** Description of Template 3.
-- *Add more templates here*
 
 ## Usage:
 
-1. Clone the repository: `git clone https://github.com/your-username/Web-Responsive-Templates.git`
+1. Clone the repository: `git clone https://github.com/vishnu1100/Web-Responsive-Templates.git`
 2. Navigate to the template directory you wish to use.
 3. Customize the template according to your needs, modifying HTML, CSS, and JavaScript files.
 4. Test the website locally to ensure everything works as expected.
