@@ -12,6 +12,20 @@ This repository contains a collection of free, responsive website templates desi
 - **Free to Use:** These templates are released under an open-source license, allowing you to use them for personal or commercial projects without any restrictions.
 
 
+
+## Contents:
+
+- **Template 1:** Animated-custom-Login-page-template-main.
+- **Template 2:** google meet design.
+- **Template 3:** Parallax Ui.
+- **Template 4:** Restaurant_template.
+- **Template 5:** youtube-template-design.
+- *Add more templates here*
+
+
+
+
+
 ## Usage:
 
 1. Clone the repository: `git clone https://github.com/vishnu1100/Web-Responsive-Templates.git`
