@@ -15,12 +15,13 @@ This repository contains a collection of free, responsive website templates desi
 
 ## Contents:
 
-- **Template 1:** Animated-custom-Login-page-template-main.
-- **Template 2:** google meet design.
-- **Template 3:** Parallax Ui.
-- **Template 4:** Restaurant_template.
-- **Template 5:** youtube-template-design.
-- *Add more templates here*
+- **Template 1:** Animated-custom-Login-page-template-main.  Check [here](https://vishnu1100.github.io/Free-Flixx-2.0/).
+- **Template 2:** google meet design.Check [here](https://vishnu1100.github.io/Free-Flixx-2.0/).
+- **Template 3:** Parallax Ui.Check [here](https://vishnu1100.github.io/Free-Flixx-2.0/).
+- **Template 4:** Restaurant_template.Check [here](https://vishnu1100.github.io/Free-Flixx-2.0/).
+- **Template 5:** youtube-template-design.Check [here](https://vishnu1100.github.io/Free-Flixx-2.0/).
+
+- *More Coming Soon*
 
 
 
